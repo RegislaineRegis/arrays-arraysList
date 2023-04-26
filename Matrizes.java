@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class Matrizes {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
-    int linha = 2, coluna = 2;
+    int linha = 4, coluna = 6;
     int [][] n1 = new int [linha][coluna];
     int [][] n2 = new int [linha][coluna];
     int [][] m1 = new int [linha][coluna];
